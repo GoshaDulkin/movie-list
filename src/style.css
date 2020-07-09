@@ -1,0 +1,30 @@
+.primary {
+    background-image: url(https://image.shutterstock.com/image-vector/collection-film-strip-frame-isolated-260nw-1194562906.jpg);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+   }
+
+.background{
+   background-image: url(https://149361006.v2.pressablecdn.com/wp-content/uploads/2016/01/blank-light-blue-background.jpg);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+   float: left; 
+   border: 2px solid black;
+   margin-right: 30px;
+   height: 324px;
+   width: 220px;
+}
+
+.maintext{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+}
+
+.updatedate{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: xx-small;
+}
+   
