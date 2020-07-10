@@ -1,7 +1,12 @@
 {
+  "homepage": "http://GoshaDulkin.github.io/movie-list.git",
   "name": "movie-list",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.18.1",
+    "npm": "6.14.5"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -30,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
