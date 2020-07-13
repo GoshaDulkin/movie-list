@@ -305,11 +305,11 @@ const products = [
     },
     {
         id: "39",
-        name: "Howl's Moving Castle",
-        imgUrl: "https://upload.wikimedia.org/wikipedia/en/a/a0/Howls-moving-castleposter.jpg",
-        releaseDate:"2004",
-        director: "Hayao Miyazaki",
-        genre: "Animation/Fantasy"
+        name: "Ratatouille",
+        imgUrl: "https://images.moviesanywhere.com/26ef082242bcfa6a24c5f34c616c23c7/0b34ab43-61bc-40e2-97cb-97edc50b1186.jpg",
+        releaseDate:"2007",
+        director: "Brad Bird",
+        genre: "Animation/Adventure"
     },
     {
         id: "40",
@@ -393,6 +393,14 @@ const products = [
     },
     {
         id: "50",
+        name: "Howl's Moving Castle",
+        imgUrl: "https://upload.wikimedia.org/wikipedia/en/a/a0/Howls-moving-castleposter.jpg",
+        releaseDate:"2004",
+        director: "Hayao Miyazaki",
+        genre: "Animation/Fantasy"
+    },
+    {
+        id: "51",
         name: "Leon the Professional",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/0/03/Leon-poster.jpg",
         releaseDate:"1994",
@@ -400,7 +408,7 @@ const products = [
         genre: "Action/Drama"
     },
     {
-        id: "51",
+        id: "52",
         name: "Catch Me if You Can",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/4/4d/Catch_Me_If_You_Can_2002_movie.jpg",
         releaseDate:"2003",
@@ -408,7 +416,7 @@ const products = [
         genre: "Crime"
     },
     {
-        id: "52",
+        id: "53",
         name: "The Dictator",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Dictator_Poster.jpg",
         releaseDate:"2012",
@@ -416,7 +424,7 @@ const products = [
         genre: "Comedy"
     },
     {
-        id: "53",
+        id: "54",
         name: "The Godfather",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
         releaseDate:"1972",
@@ -424,7 +432,7 @@ const products = [
         genre: "Crime"
     },
     {
-        id: "54",
+        id: "55",
         name: "Alien",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg",
         releaseDate:"1979",
@@ -432,7 +440,7 @@ const products = [
         genre: "Sci-Fi/Horror"
     },
     {
-        id: "55",
+        id: "56",
         name: "Django Unchained",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg",
         releaseDate:"2012",
@@ -440,7 +448,7 @@ const products = [
         genre: "Western/Drama"
     },
     {
-        id: "56",
+        id: "57",
         name: "Fargo",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/3/33/Fargo_(1996_movie_poster).jpg",
         releaseDate:"1996",
@@ -448,7 +456,7 @@ const products = [
         genre: "Crime/Thriller"
     },
     {
-        id: "57",
+        id: "58",
         name: "Into the Wild",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/d/dc/Into_the_Wild_(2007_film_poster).png",
         releaseDate:"2007",
@@ -456,7 +464,7 @@ const products = [
         genre: "Drama/Adventure"
     },
     {
-        id: "58",
+        id: "59",
         name: "Saving Private Ryan",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg",
         releaseDate:"1998",
@@ -464,7 +472,7 @@ const products = [
         genre: "War/Drama"
     },
     {
-        id: "59",
+        id: "60",
         name: "The Wolf of Wall Street",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_(2013).png",
         releaseDate:"2013",
@@ -472,7 +480,7 @@ const products = [
         genre: "Comedy/Drama"
     },
     {
-        id: "60",
+        id: "61",
         name: "The Big Lebowski",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg",
         releaseDate:"1998",
@@ -480,7 +488,7 @@ const products = [
         genre: "Comedy"
     },
     {
-        id: "61",
+        id: "62",
         name: "Reservoir Dogs",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/0/01/Reservoir_Dogs.png",
         releaseDate:"1992",
@@ -488,7 +496,7 @@ const products = [
         genre: "Crime"
     },
     {
-        id: "62",
+        id: "63",
         name: "Drive",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/1/13/Drive2011Poster.jpg",
         releaseDate:"2011",
@@ -496,15 +504,15 @@ const products = [
         genre: "Action/Drama"
     },
     {
-        id: "63",
+        id: "64",
         name: "This is England",
         imgUrl: "https://resizing.flixster.com/4ZM3Q6CT26MLSKiLj6GQQ3394Yc=/206x305/v1.bTsxMTI5Nzg2ODtqOzE4NTM1OzEyMDA7MTUzNjsyMDQ4",
-        releaseDate:"2007",
+        releaseDate:"2006",
         director: "Shane Meadows",
         genre: "Drama"
     },
     {
-        id: "64",
+        id: "65",
         name: "City of God",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg",
         releaseDate:"2002",
@@ -512,7 +520,7 @@ const products = [
         genre: "Crime/Drama"
     },
     {
-        id: "65",
+        id: "66",
         name: "The Departed",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",
         releaseDate:"2006",
@@ -520,7 +528,7 @@ const products = [
         genre: "Crime"
     },
     {
-        id: "66",
+        id: "67",
         name: "Being John Malkovich",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/5/55/Being_John_Malkovich_poster.jpg",
         releaseDate:"1999",
@@ -528,7 +536,7 @@ const products = [
         genre: "Fantasy/Comedy"
     },
     {
-        id: "67",
+        id: "68",
         name: "Gran Torino",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/c/c6/Gran_Torino_poster.jpg",
         releaseDate:"2008",
@@ -536,7 +544,7 @@ const products = [
         genre: "Drama"
     },
     {
-        id: "68",
+        id: "69",
         name: "Snatch",
         imgUrl: "https://resizing.flixster.com/M5yiUtmkhx_hBBkyauSVI8qWx48=/206x305/v1.bTsxMTE3NjY3NTtqOzE4NTM0OzEyMDA7ODAwOzEyMDA",
         releaseDate:"2000",
@@ -544,7 +552,7 @@ const products = [
         genre: "Comedy/Crime"
     },
     {
-        id: "69",
+        id: "70",
         name: "The Usual Suspects",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/9/9c/Usual_suspects_ver1.jpg",
         releaseDate:"1995",
@@ -552,15 +560,15 @@ const products = [
         genre: "Thriller/Mystery"
     },
     {
-        id: "70",
-        name: "The Gladiator",
+        id: "71",
+        name: "Gladiator",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_(2000_film_poster).png",
         releaseDate:"2013",
         director: "Ridley Scott",
         genre: "Action/Adventure"
     },
     {
-        id: "71",
+        id: "72",
         name: "No Country for Old Men",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
         releaseDate:"2007",
@@ -568,7 +576,7 @@ const products = [
         genre: "Crime/Thriller"
     },
     {
-        id: "72",
+        id: "73",
         name: "Fear and Loathing in Las Vegas",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/6/6f/FandlinLV.jpg",
         releaseDate:"1998",
@@ -576,7 +584,7 @@ const products = [
         genre: "Dark Comedy"
     },
     {
-        id: "73",
+        id: "74",
         name: "The Blade Runner",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/9/9f/Blade_Runner_(1982_poster).png",
         releaseDate:"1982",
@@ -584,7 +592,7 @@ const products = [
         genre: "Sci-Fi"
     },
     {
-        id: "74",
+        id: "75",
         name: "Battle Royale",
         imgUrl: "https://m.media-amazon.com/images/M/MV5BMDc2MGYwYzAtNzE2Yi00YmU3LTkxMDUtODk2YjhiNDM5NDIyXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_.jpg",
         releaseDate:"2000",
@@ -592,7 +600,7 @@ const products = [
         genre: "Action/Thriller"
     },
     {
-        id: "75",
+        id: "76",
         name: "The Machinist",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/b/b9/The_Machinist_poster.JPG",
         releaseDate:"2004",
@@ -600,7 +608,7 @@ const products = [
         genre: "Thriller/Drama"
     },
     {
-        id: "76",
+        id: "77",
         name: "The Imittation Game",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/8/87/The_Imitation_Game_(2014).png",
         releaseDate:"2015",
@@ -608,7 +616,7 @@ const products = [
         genre: "Drama"
     },
     {
-        id: "77",
+        id: "78",
         name: "Donnie Brasco",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/b/bb/Donnie_brasco_ver2.jpg",
         releaseDate:"1997",
@@ -616,7 +624,15 @@ const products = [
         genre: "Crime/Drama"
     },
     {
-        id: "78",
+        id: "79",
+        name: "Prisoners",
+        imgUrl: "https://tvguide1.cbsistatic.com/feed/1/396/12056396.jpg",
+        releaseDate:"2013",
+        director: "Denis Villeneuve",
+        genre: "Thriller/Mystery"
+    },
+    {
+        id: "80",
         name: "Lock, Stock and Two Smoking Barrels",
         imgUrl: "https://resizing.flixster.com/RpVhpvXT-u9FvdnQBK280CCFFRM=/206x305/v1.bTsxMTE3NjUzMjtqOzE4NTM0OzEyMDA7ODAwOzEyMDA",
         releaseDate:"1998",
@@ -624,7 +640,7 @@ const products = [
         genre: "Comedy/Crime"
     },
     {
-        id: "79",
+        id: "81",
         name: "Natural Born Killers",
         imgUrl: "https://resizing.flixster.com/oEdKYkFNsr_wfKVCglLuSSVbllY=/206x305/v1.bTsxMTE2ODA4MTtqOzE4NTM0OzEyMDA7ODAwOzEyMDA",
         releaseDate:"1994",
@@ -632,7 +648,7 @@ const products = [
         genre: "Crime/Drama"
     },
     {
-        id: "80",
+        id: "82",
         name: "Inception",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_(2010)_theatrical_poster.jpg",
         releaseDate:"2010",
@@ -640,7 +656,7 @@ const products = [
         genre: "Sci-Fi/Thriller"
     },
     {
-        id: "81",
+        id: "83",
         name: "Rush",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/d/d0/Rush_UK_poster.jpeg",
         releaseDate:"2013",
@@ -648,7 +664,7 @@ const products = [
         genre: "Sport/Drama"
     },
     {
-        id: "82",
+        id: "84",
         name: "Good Will Hunting",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/5/52/Good_Will_Hunting.png",
         releaseDate:"1997",
@@ -656,7 +672,7 @@ const products = [
         genre: "Drama"
     },
     {
-        id: "83",
+        id: "85",
         name: "The King of Comedy",
         imgUrl: "https://resizing.flixster.com/7Nek2jZSgGJZ-16mVZGueXu1oGU=/206x305/v1.bTsxMTIwNDM3MjtqOzE4NTM0OzEyMDA7MTE3OTsxNTcy",
         releaseDate:"1982",
@@ -664,7 +680,7 @@ const products = [
         genre: "Dark Comedy"
     },
     {
-        id: "84",
+        id: "86",
         name: "Interstellar",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
         releaseDate:"2014",
@@ -672,7 +688,7 @@ const products = [
         genre: "Sci-Fi"
     },
     {
-        id: "85",
+        id: "87",
         name: "The Terminal",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/8/86/Movie_poster_the_terminal.jpg",
         releaseDate:"2004",
@@ -680,7 +696,7 @@ const products = [
         genre: "Drama/Comedy"
     },
     {
-        id: "86",
+        id: "88",
         name: "2001: A Space Odyssey",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/1/11/2001_A_Space_Odyssey_(1968).png",
         releaseDate:"1968",
@@ -688,7 +704,7 @@ const products = [
         genre: "Sci-Fi"
     },
     {
-        id: "87",
+        id: "89",
         name: "Primal Fear",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/f/fc/Primal_Fear_(1996_film)_poster.jpg",
         releaseDate:"1996",
@@ -696,7 +712,7 @@ const products = [
         genre: "Thriller/Crime"
     },
     {
-        id: "88",
+        id: "90",
         name: "Groundhog Day",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/b/b1/Groundhog_Day_(movie_poster).jpg",
         releaseDate:"1993",
@@ -704,7 +720,7 @@ const products = [
         genre: "Comedy/Romance"
     },
     {
-        id: "89",
+        id: "91",
         name: "Casino",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/d/d8/Casino_poster.jpg",
         releaseDate:"1995",
@@ -712,7 +728,7 @@ const products = [
         genre: "Crime/Drama"
     },
     {
-        id: "90",
+        id: "92",
         name: "21 Jump Street",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/9/93/21JumpStreetfilm.jpg",
         releaseDate:"2012",
@@ -720,7 +736,7 @@ const products = [
         genre: "Comedy/Action"
     },
     {
-        id: "91",
+        id: "93",
         name: "Parasite",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_(2019_film).png",
         releaseDate:"2019",
@@ -728,7 +744,7 @@ const products = [
         genre: "Thriller"
     },
     {
-        id: "92",
+        id: "94",
         name: "The Hangover",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/b/b9/Hangoverposter09.jpg",
         releaseDate:"2009",
@@ -736,7 +752,7 @@ const products = [
         genre: "Comedy"
     },
     {
-        id: "93",
+        id: "95",
         name: "Mallrats",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/9/96/Mallrats.jpg",
         releaseDate:"1995",
@@ -744,7 +760,7 @@ const products = [
         genre: "Comedy"
     },
     {
-        id: "94",
+        id: "96",
         name: "Shaun of the Dead",
         imgUrl: "https://resizing.flixster.com/EOBkX0f1z67uca2tkz3kTW15Myg=/206x305/v1.bTsxMTE3MDc2NztqOzE4NTM0OzEyMDA7ODAwOzEyMDA",
         releaseDate:"2004",
@@ -752,7 +768,7 @@ const products = [
         genre: "Comedy/Horror"
     },
     {
-        id: "95",
+        id: "97",
         name: "Zombieland",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/a/a3/Zombieland-poster.jpg",
         releaseDate:"2009",
@@ -760,15 +776,7 @@ const products = [
         genre: "Comedy/Horror"
     },
     {
-        id: "96",
-        name: "Stalingrad",
-        imgUrl: "https://upload.wikimedia.org/wikipedia/en/3/3d/Stalingrad_film.jpg",
-        releaseDate:"1993",
-        director: "Joseph Vilsmaier",
-        genre: "War/Drama"
-    },
-    {
-        id: "97",
+        id: "98",
         name: "My Friend Dahmer",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/b/bc/My_Friend_Dahmer_film_poster.jpg",
         releaseDate:"2017",
@@ -776,7 +784,7 @@ const products = [
         genre: "Drama"
     },
     {
-        id: "98",
+        id: "99",
         name: "Zodiac",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/3/3a/Zodiac2007Poster.jpg",
         releaseDate:"2007",
@@ -784,21 +792,12 @@ const products = [
         genre: "Thriller/Mystery"
     },
     {
-        id: "99",
+        id: "100",
         name: "The Prestige",
         imgUrl: "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
         releaseDate:"2006",
         director: "Christopher Nolan",
         genre: "Thriller/Drama"
-    },
-    {
-        id: "100",
-        name: "The Martian",
-        imgUrl: "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg",
-        releaseDate:"2015",
-        director: "Ridley Scott",
-        genre: "Sci-Fi"
-        
     }
     
 ]
